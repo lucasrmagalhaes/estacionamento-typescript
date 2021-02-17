@@ -1,4 +1,4 @@
-<h1 align="center">Estacionamento | TypeScript :blue_car: :red_car:</h1>
+<h1 align="center">EstacionamentO :blue_car: :red_car:</h1>
 
 <p align="center">
   <a href="https://lucasrmagalhaes.github.io/estacionamento-typescript/">
@@ -8,7 +8,7 @@
     />
   </a>
   <br />
-  <i>Sistema de Estacionamento Usando TypeScript.</i>
+  <i>Sistema de Estacionamento utilizando TypeScript.</i>
 </p>
 
 <hr />
