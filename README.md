@@ -1,9 +1,9 @@
 <h1 align="center">Estacionamento | TypeScript :blue_car: :red_car:</h1>
 
 <p align="center">
-  <a href="#">
+  <a href="https://lucasrmagalhaes.github.io/estacionamento-typescript/">
     <img 
-         src="#" 
+         src="https://github.com/lucasrmagalhaes/estacionamento-typescript/blob/main/src/img/estacionamento.jpg" 
          alt="Estacionamento" 
     />
   </a>
